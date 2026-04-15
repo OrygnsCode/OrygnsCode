@@ -7,7 +7,7 @@
 **Custom software, security tooling, and internal automation.**
 
 [![Website](https://img.shields.io/badge/website-orygn.tech-0A84FF?style=for-the-badge)](https://orygn.tech)
-[![Location](https://img.shields.io/badge/based_in-Cypress,_TX-1C1C1E?style=for-the-badge)](https://orygn.tech/capabilities)
+[![Location](https://img.shields.io/badge/based_in-Houston,_TX-1C1C1E?style=for-the-badge)](https://orygn.tech/capabilities)
 [![Contact](https://img.shields.io/badge/contact-orygn.tech/contact-1C1C1E?style=for-the-badge)](https://orygn.tech/contact)
 
 </div>
