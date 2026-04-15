@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://orygn.tech/assets/logo.png" alt="Orygn LLC" width="140">
+
 # Orygn LLC
 
 **Custom software, security tooling, and internal automation.**
@@ -14,7 +16,7 @@
 
 ## About
 
-Orygn is a software and security firm serving the Houston area and remote clients. We build custom web applications, internal tools, workflow automation, and security hardening for small and mid-sized businesses — plus a growing line of hosted products and open-source utilities.
+Orygn is a software and security firm serving the Houston area and remote clients. We build custom web applications, internal tools, workflow automation, and security hardening for small and mid-sized businesses, plus a growing line of hosted products and open-source utilities.
 
 Main site: **[orygn.tech](https://orygn.tech)**
 
@@ -50,11 +52,11 @@ Smaller security utilities published under the Orygn umbrella.
 
 ## Services
 
-- **[Custom Software](https://orygn.tech/services/custom-software)** — bespoke web applications built for your workflow
-- **[Internal Tools](https://orygn.tech/services/internal-tools)** — dashboards, admin panels, and line-of-business apps
-- **[Workflow Automation](https://orygn.tech/services/workflow-automation)** — eliminate repetitive manual work
-- **[Security Hardening](https://orygn.tech/services/security-hardening)** — audits, remediation, and defensive engineering
-- **[Web Design](https://orygn.tech/services/web-design)** — marketing sites that load fast and convert
+- **[Custom Software](https://orygn.tech/services/custom-software)**: bespoke web applications built for your workflow
+- **[Internal Tools](https://orygn.tech/services/internal-tools)**: dashboards, admin panels, and line-of-business apps
+- **[Workflow Automation](https://orygn.tech/services/workflow-automation)**: eliminate repetitive manual work
+- **[Security Hardening](https://orygn.tech/services/security-hardening)**: audits, remediation, and defensive engineering
+- **[Web Design](https://orygn.tech/services/web-design)**: marketing sites that load fast and convert
 
 ---
 
