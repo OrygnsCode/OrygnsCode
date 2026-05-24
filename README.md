@@ -34,6 +34,7 @@ Hosted tools and applications maintained by Orygn.
 | **Vendor Access Vault** | Vendor credential and access tracking | [orygn.tech/products/vendor-vault](https://orygn.tech/products/vendor-vault) |
 | **DiligenceDesk** | Due-diligence workflow and document review | [orygn.tech/products/diligencedesk](https://orygn.tech/products/diligencedesk) |
 | **Beaconly** | Free AI discoverability audit for any site | [orygn.tech/products/beaconly](https://orygn.tech/products/beaconly) |
+| **OPA MCP** | Open Policy Agent MCP server for authoring and debugging Rego policies | [orygn.tech/products/opa-mcp](https://orygn.tech/products/opa-mcp) |
 
 ---
 
