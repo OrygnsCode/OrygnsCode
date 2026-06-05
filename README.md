@@ -29,12 +29,12 @@ Hosted tools and applications maintained by Orygn.
 | Product | What it does | Link |
 | --- | --- | --- |
 | **BitSeal** | File integrity and tamper detection | [orygn.tech/products/bitseal](https://orygn.tech/products/bitseal) |
+| **OPA MCP** | Open Policy Agent MCP server for authoring and debugging Rego policies | [orygn.tech/products/opa-mcp](https://orygn.tech/products/opa-mcp) |
+| **DiligenceDesk** | Due-diligence workflow and document review | [orygn.tech/products/diligencedesk](https://orygn.tech/products/diligencedesk) |
 | **File X-Ray** | Deep file inspection and metadata analysis | [orygn.tech/products/file-xray](https://orygn.tech/products/file-xray) |
 | **WebShield** | Lightweight website protection layer | [orygn.tech/products/webshield](https://orygn.tech/products/webshield) |
 | **Vendor Access Vault** | Vendor credential and access tracking | [orygn.tech/products/vendor-vault](https://orygn.tech/products/vendor-vault) |
-| **DiligenceDesk** | Due-diligence workflow and document review | [orygn.tech/products/diligencedesk](https://orygn.tech/products/diligencedesk) |
 | **Beaconly** | Free AI discoverability audit for any site | [orygn.tech/products/beaconly](https://orygn.tech/products/beaconly) |
-| **OPA MCP** | Open Policy Agent MCP server for authoring and debugging Rego policies | [orygn.tech/products/opa-mcp](https://orygn.tech/products/opa-mcp) |
 
 ---
 
