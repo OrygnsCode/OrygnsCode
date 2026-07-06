@@ -35,6 +35,8 @@ Hosted tools and applications maintained by Orygn.
 | **WebShield** | Lightweight website protection layer | [orygn.tech/products/webshield](https://orygn.tech/products/webshield) |
 | **Vendor Access Vault** | Vendor credential and access tracking | [orygn.tech/products/vendor-vault](https://orygn.tech/products/vendor-vault) |
 | **Beaconly** | Free AI discoverability audit for any site | [orygn.tech/products/beaconly](https://orygn.tech/products/beaconly) |
+| **Omnicord** | Discord MCP server: chat, moderation, and full server builds through any MCP client | [orygn.tech/products/omnicord](https://orygn.tech/products/omnicord) |
+| **Deposit Record** | Free, statute-cited security deposit return tool for small landlords | [orygn.tech/products/deposit-record](https://orygn.tech/products/deposit-record) |
 
 ---
 
