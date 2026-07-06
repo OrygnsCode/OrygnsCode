@@ -53,6 +53,17 @@ Smaller security utilities published under the Orygn umbrella.
 
 ---
 
+## Research
+
+Original research published by Orygn, with open data, source code, and DOI-registered results. Index: [orygn.tech/research](https://orygn.tech/research)
+
+| Paper | Field | Link |
+| --- | --- | --- |
+| **A Computational Study of Base-b Deletable Primes** | Number theory: a geometric growth law and an even/odd split, with 37 new OEIS terms and two new sequences | [orygn.tech/research/deletable-primes](https://orygn.tech/research/deletable-primes) |
+| **From Hallucination to Registration** | Supply-chain security: a registration census of 1,641 LLM-invented package names, all still unclaimed, zero malicious | [orygn.tech/research/slopsquatting](https://orygn.tech/research/slopsquatting) |
+
+---
+
 ## Services
 
 - **[Custom Software](https://orygn.tech/services/custom-software)**: bespoke web applications built for your workflow
