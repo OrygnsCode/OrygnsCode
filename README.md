@@ -59,8 +59,9 @@ Original research published by Orygn, with open data, source code, and DOI-regis
 
 | Paper | Field | Link |
 | --- | --- | --- |
-| **A Computational Study of Base-b Deletable Primes** | Number theory: a geometric growth law and an even/odd split, with 37 new OEIS terms and two new sequences | [orygn.tech/research/deletable-primes](https://orygn.tech/research/deletable-primes) |
+| **The Recipe Is the Fingerprint** | Privacy: every AI image generator writes its full recipe into the file by default. Across 15.7M public images that recipe alone identifies one creator out of ~92,000, from a single image, 55.8% of the time | [orygn.tech/research/png-residue](https://orygn.tech/research/png-residue) |
 | **From Hallucination to Registration** | Supply-chain security: a registration census of 1,641 LLM-invented package names, all still unclaimed, zero malicious | [orygn.tech/research/slopsquatting](https://orygn.tech/research/slopsquatting) |
+| **A Computational Study of Base-b Deletable Primes** | Number theory: a geometric growth law and an even/odd split, with 37 new OEIS terms and two new sequences | [orygn.tech/research/deletable-primes](https://orygn.tech/research/deletable-primes) |
 
 ---
 
