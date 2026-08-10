@@ -72,6 +72,7 @@ Original research published by Orygn, with open data, source code, and DOI-regis
 - **[Workflow Automation](https://orygn.tech/services/workflow-automation)**: eliminate repetitive manual work
 - **[Security Hardening](https://orygn.tech/services/security-hardening)**: audits, remediation, and defensive engineering
 - **[Web Design](https://orygn.tech/services/web-design)**: marketing sites that load fast and convert
+- **[Accessibility & Section 508](https://orygn.tech/services/accessibility)**: WCAG 2.2 AA testing, VPAT reports, and remediation by a certified DHS Trusted Tester
 
 ---
 
